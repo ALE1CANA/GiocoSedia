@@ -1,0 +1,16 @@
+C:\Users\Meeting Gritti Group\Desktop\GiocoSedia\GiocoSedia\bin\Debug\net8.0-windows\GiocoSedia.exe
+C:\Users\Meeting Gritti Group\Desktop\GiocoSedia\GiocoSedia\bin\Debug\net8.0-windows\GiocoSedia.deps.json
+C:\Users\Meeting Gritti Group\Desktop\GiocoSedia\GiocoSedia\bin\Debug\net8.0-windows\GiocoSedia.runtimeconfig.json
+C:\Users\Meeting Gritti Group\Desktop\GiocoSedia\GiocoSedia\bin\Debug\net8.0-windows\GiocoSedia.dll
+C:\Users\Meeting Gritti Group\Desktop\GiocoSedia\GiocoSedia\bin\Debug\net8.0-windows\GiocoSedia.pdb
+C:\Users\Meeting Gritti Group\Desktop\GiocoSedia\GiocoSedia\obj\Debug\net8.0-windows\GiocoSedia.Form1.resources
+C:\Users\Meeting Gritti Group\Desktop\GiocoSedia\GiocoSedia\obj\Debug\net8.0-windows\GiocoSedia.csproj.GenerateResource.cache
+C:\Users\Meeting Gritti Group\Desktop\GiocoSedia\GiocoSedia\obj\Debug\net8.0-windows\GiocoSedia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Meeting Gritti Group\Desktop\GiocoSedia\GiocoSedia\obj\Debug\net8.0-windows\GiocoSedia.AssemblyInfoInputs.cache
+C:\Users\Meeting Gritti Group\Desktop\GiocoSedia\GiocoSedia\obj\Debug\net8.0-windows\GiocoSedia.AssemblyInfo.cs
+C:\Users\Meeting Gritti Group\Desktop\GiocoSedia\GiocoSedia\obj\Debug\net8.0-windows\GiocoSedia.csproj.CoreCompileInputs.cache
+C:\Users\Meeting Gritti Group\Desktop\GiocoSedia\GiocoSedia\obj\Debug\net8.0-windows\GiocoSedia.dll
+C:\Users\Meeting Gritti Group\Desktop\GiocoSedia\GiocoSedia\obj\Debug\net8.0-windows\refint\GiocoSedia.dll
+C:\Users\Meeting Gritti Group\Desktop\GiocoSedia\GiocoSedia\obj\Debug\net8.0-windows\GiocoSedia.pdb
+C:\Users\Meeting Gritti Group\Desktop\GiocoSedia\GiocoSedia\obj\Debug\net8.0-windows\GiocoSedia.genruntimeconfig.cache
+C:\Users\Meeting Gritti Group\Desktop\GiocoSedia\GiocoSedia\obj\Debug\net8.0-windows\ref\GiocoSedia.dll
